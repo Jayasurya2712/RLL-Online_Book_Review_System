@@ -1,0 +1,26 @@
+Book  table
+Columns:
+id               int AI PK
+author         varchar(255)
+Category       varchar(255) 
+description    varchar(255)
+enable         varchar(255)
+Name           varchar(255)
+price            int
+
+
+Book  table
+Columns:
+id             int AI PK
+author        varchar(255)
+Category      varchar(255) 
+description   varchar(255)
+enable        varchar(255)
+Name          varchar(255)
+price            int
+
+User table
+Columns:
+email         varchar(255) PK
+name          varchar(255)
+password      varchar(255)
